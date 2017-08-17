@@ -97,8 +97,6 @@ text-decoration: none;
 
     }
 
-
-
     .navBut2{
         float: left;
         padding: 20px;
@@ -109,10 +107,9 @@ text-decoration: none;
         }
 
 
-
-
         body{
-            background-image: url("assets/images/concrete-texture.png");
+            
+            background-image: url("http://www.nobodydenied.com/wp-content/uploads/2015/04/Black-Background.jpg");
         font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
         color:#777777;
 
